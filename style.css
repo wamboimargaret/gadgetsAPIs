@@ -289,3 +289,15 @@ h2 {
   font-size: 1.1rem;
   margin-bottom: 10px;
 }
+#offers{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.products{
+border: solid yellowgreen;
+border-radius: 5px;
+margin-bottom: 2%;
+text-align: center;
+}
